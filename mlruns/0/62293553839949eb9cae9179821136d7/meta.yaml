@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sachinpc/Documents/GitHubProjects/MLOps/End_to_end_MLOPS_project/mlruns/0/62293553839949eb9cae9179821136d7/artifacts
+end_time: 1730336690544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62293553839949eb9cae9179821136d7
+run_name: marvelous-bee-364
+run_uuid: 62293553839949eb9cae9179821136d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730336690530
+status: 4
+tags: []
+user_id: sachinpc

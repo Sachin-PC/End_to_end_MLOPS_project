@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sachinpc/Documents/GitHubProjects/MLOps/End_to_end_MLOPS_project/mlruns/0/af8c8e36b55349e7be27f7b13d2cbda4/artifacts
+end_time: 1730337463365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af8c8e36b55349e7be27f7b13d2cbda4
+run_name: zealous-calf-182
+run_uuid: af8c8e36b55349e7be27f7b13d2cbda4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730337461950
+status: 4
+tags: []
+user_id: sachinpc

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sachinpc/Documents/GitHubProjects/MLOps/End_to_end_MLOPS_project/mlruns/0/ac08291d1f674e33b9b5db267283033d/artifacts
+end_time: 1730337556195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac08291d1f674e33b9b5db267283033d
+run_name: lyrical-roo-479
+run_uuid: ac08291d1f674e33b9b5db267283033d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730337554782
+status: 4
+tags: []
+user_id: sachinpc
